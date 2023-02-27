@@ -14,7 +14,7 @@
  </a>
 </p>
 <p>
-I am a software engineer with highly experience in designing and building distributed and scalable systems using .Net and Javascripts. And, I'm enthusiast about learning microservices, serverless, cloud services and software architecture.
+I am a software engineer with highly experience in designing and building distributed and scalable systems using .Net and Javascript. And, I'm enthusiast about learning microservices, serverless, cloud services and software architecture.
 </p>
 
 <p align="center"> 
@@ -39,8 +39,11 @@ I am a software engineer with highly experience in designing and building distri
   <a href="https://reactjs.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" with="50" height="50" alt="react" >
   </a>
-    <a href="https://azure.microsoft.com/en-us/">
+  <a href="https://azure.microsoft.com/en-us/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" with="50" height="50" alt="azure" >
+  </a>
+ <a href="https://aws.amazon.com/en-us/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" with="50" height="50" alt="aws" >
   </a>
   <a href="https://www.docker.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" with="50" height="50" alt="docker" >
